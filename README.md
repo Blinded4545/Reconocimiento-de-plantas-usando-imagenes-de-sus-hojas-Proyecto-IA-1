@@ -10,4 +10,4 @@
 
 **Modelos:** DNN, Decision Tree, Random Forest, Support Vector Machine, KMeans, DBScan y Agglomerative Clustering.
 
-**Video** Enlace del video
+**Video** https://www.youtube.com/watch?v=pWTUpz0_nwA
