@@ -6,7 +6,7 @@
 
 **Objetivo:** Crear un clasificador de especies de plantas basado en la forma de las hojas de las mismas
 
-**Dataset:** Dataset propio usando 6 especies de plantas de la UIS
+**Dataset:** Dataset propio usando 5 especies de plantas de la UIS
 
 **Modelos:** DNN, Decision Tree, Random Forest, Support Vector Machine, KMeans, DBScan y Agglomerative Clustering.
 
