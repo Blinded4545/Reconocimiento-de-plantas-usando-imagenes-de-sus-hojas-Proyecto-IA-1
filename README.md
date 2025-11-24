@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/Blinded4545/Reconocimiento-de-plantas-usando-imagenes-de-sus-hojas-Proyecto-IA-1/blob/main/Banner%20IA.png)
 
-**Autores:** Camilo Andrés Herrera Celis, Alejandro Moreno Cortes
+**Autores:** Camilo Andrés Herrera Celis, Alejandro Moreno Cortes, Marlon David Osorio Monroy
 
 **Objetivo:** Crear un clasificador de especies de plantas basado en la forma de las hojas de las mismas
 
